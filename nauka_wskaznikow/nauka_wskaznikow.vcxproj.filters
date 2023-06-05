@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="brudnopis do projektu 2 - struktury danych.cpp">
+    <ClCompile Include="Projekt 2 - Algorytm Dijkstry - Struktury Danych.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
     <ClCompile Include="Graf.cpp">

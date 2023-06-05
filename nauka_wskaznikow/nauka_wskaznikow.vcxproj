@@ -24,7 +24,7 @@
     <ProjectGuid>{fc10319b-e5d2-45b2-97ce-c868dda5a49e}</ProjectGuid>
     <RootNamespace>naukawskaznikow</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>brudnopis do projektu 2 - struktury danych</ProjectName>
+    <ProjectName>Projekt 2 - Algorytm Dijkstry - Struktury Danych</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="brudnopis do projektu 2 - struktury danych.cpp" />
+    <ClCompile Include="Projekt 2 - Algorytm Dijkstry - Struktury Danych.cpp" />
     <ClCompile Include="Graf.cpp" />
   </ItemGroup>
   <ItemGroup>
